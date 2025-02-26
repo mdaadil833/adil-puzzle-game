@@ -1,4 +1,4 @@
-var images = ['https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzKpOpKl88620Del0DFmH44yAohQl5mv9FXqWPyUdt1saTeTKAYz1gf6kVAt9c9ROeF20no1TmdYCz8aQ-sztbkOgmOZ4t-1jnn8IjNDE3bkZ6tCXxPihsDRz13wKYhzpQDcgEp6zLg7eJ4vIuvEiQgJt_T168NNkljG2WLjkQ_oA-JqL5Jywed0OMiHI/w180-h320/1735584797310.jpg'];
+var images = ['https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXTh1kw62UR14WlTAPhUKuYDDjXZ2DZlOG8VYIVsqVOWklo8p-OXhYkuSN26sPXQei5btq54L8wAS0YKZOWbme_g'];
 
 var currentIndex = 0;
 var totalClicks = 0;
